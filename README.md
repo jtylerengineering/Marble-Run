@@ -1,4 +1,8 @@
 # Marble-Run
+<img width="762" height="731" alt="Screenshot 2026-10-18 at 5 09 47 PM" src="https://github.com/user-attachments/assets/b89d9ba8-ec3d-4d79-ae44-da6a1ed1e1bc" />
+
+**IN-PROGRESS EXAMPLE CONFIG**
+
 
 ## Description
 This is my submission for Week 2 of Half Life. As indicated by the title, it is a 3d printed marble run. My design is meant to be modular. It will receive some updates after Half Life (hopefully), but that will be a project for future me whenever he's bored.
