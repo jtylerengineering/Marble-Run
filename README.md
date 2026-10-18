@@ -2,6 +2,7 @@
 
 ## Description
 This is my submission for Week 2 of Half Life. As indicated by the title, it is a 3d printed marble run. My design is meant to be modular. It will receive some updates after Half Life (hopefully), but that will be a project for future me whenever he's bored.
+** Note:  Example design will be posted by week 7. I am just posting the system for week 2. I am still trying to figure out the assembly tool and need time to figure out how to configure an examle. **
 
 ### Features
 This system includes:
