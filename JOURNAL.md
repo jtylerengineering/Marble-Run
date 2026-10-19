@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv53je6l0gqa01n0jau8v17k). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A modular system to build custom marble tracks.
+> A modular system to build custom marble tracks.  **note to reviewer: The Cover image is an incomplete configuration of the system. Let me know if that's an issue.**
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
